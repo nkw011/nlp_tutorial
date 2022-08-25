@@ -4,6 +4,16 @@ NLP 실습용 GitHub Repository 입니다.
 
 Blog: [velog](https://velog.io/@nkw011), [GitHub Blog](https://nkw011.github.io)
 
+## Huggingface Usage
+### Tutorial
+[Transformers Tutorial](https://huggingface.co/docs/transformers/pipeline_tutorial)의 내용을 한국어 데이터셋을 이용해 공부할 수 있도록 새롭게 구성하여 만들었습니다.
+
+* Huggingface 설치: 내용, 실습
+* Tutorial1 - Pipelines for inference: 내용, 실습 
+* Tutorial2 - Load pretrained instances with an AutoClass: 내용, 실습
+* Tutorial3 - Preprocess: 내용, 실습
+* Tutorial4 - Fine-tune a pretrained model: 내용, 실습
+
 ## Data Preprocessing
 
 * Tokenization: NLTK, spaCy, torchtext 라이브러리를 활용해 토큰화를 수행합니다.
